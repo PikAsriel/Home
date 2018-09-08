@@ -6,4 +6,4 @@ It is hoped that this project acts as the spiritual successor to the [`Pokemon M
 
 Contributions to this project are encouraged and welcome.
 
-This repository contains general documentation. For more specific details, please visit the appropriate repository.
+This repository contains general documentation. For more specific details, please visit the appropriate repository!
