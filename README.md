@@ -1,9 +1,9 @@
-# Home
+＃ 主頁
 
-Welcome to `Pokemon Mystery Dungeon: Shift!`. This is a highly experimental proof-of-concept fan project, intended to explore the world of Pokemon Mystery Dungeon (PMD) as a community-developed multiplayer online game.
+歡迎來到《寶可夢不可思議迷宮：Shift!》。 這是一個高度實驗性的概念驗證粉絲項目，旨在以社群開發的多人在線遊戲的世界探索寶可夢不可思議迷宮 (PMD)的世界。
 
-It is hoped that this project acts as the spiritual successor to the [`Pokemon Mystery Dungeon Community Project (PMDCP)`](https://github.com/pmdcp). Older versions of PMDCP have been used to build [`Pokemon Mystery Universe (PMU)`](http://www.pmuniverse.net), which serves as an example of the types of games that can be created.
+希望這個項目成為 [`Pokemon Mystery Dungeon Community Project (PMDCP)`](https://github.com/pmdcp) 的精神繼承者。舊版本的 PMDCP 已用於構建 [`Pokemon Mystery Universe (PMU)`](http://www.pmuniverse.net)，它可以作為一個製作該類型遊戲的範例。
 
-Contributions to this project are encouraged and welcome.
+鼓勵和歡迎對這個項目的貢獻。
 
-This repository contains general documentation. For more specific details, please visit the appropriate repository!
+該存儲庫包含一般文檔。 有關更具體的詳細信息，請訪問相應的存儲庫！
